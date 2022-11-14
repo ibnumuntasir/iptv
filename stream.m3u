@@ -687,16 +687,12 @@ http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 group-title="Religi",SUNNAHTV
 http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
-
-<!--ENDRELIGI-->
-<!--INTERN-->
-
-#EXTINF:-1  tvg-id="ksa.alqurantv" tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title="International Channel",Al Quran Al Kareem 3
+#EXTINF:-1  tvg-id="ksa.alqurantv" tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title="Religi",Al Quran Al Kareem 3
 http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="International Channel",AL Sunnah Nabawi 3
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Religi",AL Sunnah Nabawi 3
 http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
 
-<!--ENDINTERN-->
+<!--ENDRELIGI-->
 <!--MUSIC-->
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
