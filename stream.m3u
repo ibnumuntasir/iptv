@@ -1171,31 +1171,7 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="SKYMEDIA",Celestial Classic Movies
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 group-title="IPTV",SCTV
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="IPTV",INDOSIAR
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 group-title="IPTV",KOMPASTV
-http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANTV
-http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVONE
-http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="IPTV",METROTV
-http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
-#EXTINF:-1 group-title="IPTV",NETTV
-http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="IPTV",RTV
-http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
-#EXTINF:-1 group-title="IPTV",TVRI
-http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUWORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUENGLISH
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
 #EXTINF:-1 group-title="IPTV",OCHANNEL
 http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
@@ -1292,10 +1268,5 @@ http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="IPTV",EGGNETWORK
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="IPTV",ADITV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",TATV
-https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+
 
